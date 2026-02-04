@@ -1,0 +1,1 @@
+We use FBA to calculate bacterial phenotypes from growth conditions in E. coli, and then we assess how accurately we can predict the original growth conditions from the phenotypes. Prediction is carried out via regularized multinomial regression. Our analysis provides several important physiological and statistical insights. 
